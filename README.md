@@ -4,7 +4,7 @@
 
 💻 Actualmente me encuentro en proceso de orientación profesional hacia desarrollo Mobile y Backend, construyendo bases sólidas tanto en aplicaciones iOS (Swift / SwiftUI) como en desarrollo backend y lógica de negocio. Me interesa comprender el ciclo completo del software, desde la interfaz hasta los servicios y datos.
 
-🚀 Busco oportunidades trainee / junior, programas de formación o primeros roles en desarrollo donde pueda aprender, especializarme progresivamente y aportar una mirada técnica, responsable y proactiva.
+🚀 Me encuentro abierto a nuevos horizontes profesionales relacionados con el desarrollo de software, donde pueda seguir aprendiendo, explorar distintas áreas (mobile, backend, lógica de negocio) y aportar una mirada técnica, responsable y proactiva.
 
 ⸻
 
