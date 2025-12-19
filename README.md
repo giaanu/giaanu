@@ -24,6 +24,8 @@ IT & Soporte: Active Directory, Office 365, VPN, networking básico
 
 Soporte remoto: AnyDesk, TeamViewer
 
+⸻
+
 📌 Proyectos destacados
 
 🔹 Aplicaciones iOS (SwiftUI)
