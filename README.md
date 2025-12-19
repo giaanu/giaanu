@@ -39,6 +39,7 @@ Soporte remoto: AnyDesk, TeamViewer
 
 Soporte de Microinformática + Administrador de Sistemas - Verifarma
 📍 Sep 2025 - Actualidad
+
 	•	Instalar sistemas operativos (Windows/Linux).
 	•	Diagnóstico, resolución y seguimiento de problemas de hardware y/o software (Windows/Linux).
 	•	Instalación, configuración y mantenimiento (preventivo y correctivo) de PCs, periféricos e impresoras.
@@ -53,6 +54,7 @@ Soporte de Microinformática + Administrador de Sistemas - Verifarma
 
 Administrador de Sistemas — CTL Information Technology
 📍  Oct 2024 – Sep 2025
+
 	•	Troubleshooting.
 	•	Recepción de incidencias en plataforma Jira.
 	•	Gestion de Informes.
@@ -74,6 +76,7 @@ Administrador de Sistemas — CTL Information Technology
 
 Analista de Soporte Técnico On-Site — CTL Information Technology
 📍 Jun 2022 – Sep 2024
+
 	•	Soporte presencial y remoto a usuarios
 	•	Instalación y configuración de SO Windows
 	•	Gestión de tickets (InvGate)
@@ -81,6 +84,7 @@ Analista de Soporte Técnico On-Site — CTL Information Technology
 
 Analista de Soporte Técnico — Itrio S.A.
 📍 Oct 2021 – Dic 2021
+
 	•	Soporte remoto y en sitio
 	•	Instalación de aplicaciones y Office 365
 	•	Gestión de tickets (BMC Remedy)
@@ -88,6 +92,7 @@ Analista de Soporte Técnico — Itrio S.A.
 ⸻
 
 📫 Contacto
+
 	•	📍 Buenos Aires, Argentina
 	•	📧 Email: g.zarrelli96@gmail.com
 	•	💼 LinkedIn: https://www.linkedin.com/in/gianlucazarrelli/
