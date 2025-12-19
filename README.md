@@ -27,9 +27,11 @@ Soporte remoto: AnyDesk, TeamViewer
 📌 Proyectos destacados
 
 🔹 Aplicaciones iOS (SwiftUI)
+
 Proyectos de práctica enfocados en UI moderna, manejo de estado, navegación y consumo de APIs.
 
 🔹 Proyectos Web / Lógica
+
 Aplicaciones con JavaScript orientadas a lógica de negocio, consumo de APIs y persistencia básica de datos.
 
 👉 Proyectos destacados fijados más abajo en mi perfil 👇
